@@ -1,0 +1,5 @@
+Model,Perplexity,BLEU,ROUGE,Time,Size
+gpt2,32.5,0.21,0.34,1.2,124
+distilgpt2,28.7,0.19,0.31,0.8,82
+t5-small,25.3,0.25,0.38,1.5,60
+flan-t5-base,22.4,0.28,0.42,1.8,250

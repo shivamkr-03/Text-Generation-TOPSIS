@@ -132,13 +132,6 @@ The highest-scoring model represents the optimal balance across all selected cri
 
 ---
 
-## In-Depth Analysis
-
-A comprehensive step-by-step walkthrough of the TOPSIS methodology, matrix transformations, and intermediate calculations:
-
-**[View Full Analysis Report](outputs/analysis.html)** (Interactive HTML)
-
----
 
 ## Quick Start
 
